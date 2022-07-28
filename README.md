@@ -11,8 +11,11 @@
 
 <p><img align="right" src="https://github.com/rampal9696/rampal9696/blob/main/animation_500_kxa883sd.gif" alt="Ram Pal" /></p>
 
+Hi there 👋
 
 - 🌱 I’m currently learning Web Development and other programming languages
+
+- 💬 Ask me about Data Structures and Algorithms.
 
 - 📫 How to reach me **rampalshekha1999@gmail.com**
 
