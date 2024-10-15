@@ -16,7 +16,7 @@ Hi there 👋
 
 - 💬 Ask me about Data Structures and Algorithms.
 
-- 📫 How to reach me **rampalshekha1999@gmail.com**
+- 📫 How to reach me **rampaldev01@gmail.com**
 
 - ⚡ Fun fact :- Cricket and Music🎵 are the reasons to live.
 
